@@ -122,8 +122,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
   // 20 AUG 2018
   const displayDatetime = format(date, 'dd LLL yyyy');
 
-  console.log(post.frontmatter.author[0].id)
-
   return (
     <IndexLayout className="post-template">
       <Helmet>
@@ -161,7 +159,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`}
           />
         )}
-        <meta name="" content="Written by" />
+        <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content={post.frontmatter.author[0].id} />
         <meta name="twitter:label2" content="Filed under" />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
@@ -264,7 +262,6 @@ const PostTemplate = css`
     background: #fff;
     padding-bottom: 4vw;
   }
-
   @media (prefers-color-scheme: dark) {
     .site-main {
       /* background: var(--darkmode); */
@@ -282,7 +279,6 @@ export const NoImage = css`
   .post-full-content {
     padding-top: 0;
   }
-
   .post-full-content:before,
   .post-full-content:after {
     display: none;
@@ -292,21 +288,18 @@ export const NoImage = css`
 export const PostFullHeader = styled.header`
   position: relative;
   margin: 0 auto;
-  padding: 70px 170px 50px;
+  padding: 70px 170px 0;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-
   @media (max-width: 1170px) {
-    padding: 60px 11vw 50px;
+    padding: 60px 11vw 0;
   }
-
   @media (max-width: 800px) {
     padding-right: 5vw;
     padding-left: 5vw;
   }
-
   @media (max-width: 500px) {
-    padding: 20px 0 35px;
+    padding: 20px 0 0;
   }
 `;
 
@@ -329,12 +322,10 @@ const PostFullCustomExcerpt = styled.p`
   font-size: 2.3rem;
   line-height: 1.4em;
   font-weight: 300;
-
   @media (max-width: 500px) {
     font-size: 1.9rem;
     line-height: 1.5em;
   }
-
   @media (prefers-color-scheme: dark) {
     /* color: color(var(--midgrey) l(+10%)); */
     color: ${lighten('0.1', colors.midgrey)};
@@ -348,18 +339,15 @@ const PostFullByline = styled.div`
   padding-top: 15px;
   /* border-top: 1px solid color(var(--lightgrey) l(+10%)); */
   border-top: 1px solid ${lighten('0.1', colors.lightgrey)};
-
   .post-full-byline-content {
     flex-grow: 1;
     display: flex;
     align-items: flex-start;
   }
-
   .post-full-byline-content .author-list {
     justify-content: flex-start;
     padding: 0 12px 0 0;
   }
-
   .post-full-byline-meta {
     margin: 2px 0 0;
     /* color: color(var(--midgrey) l(+10%)); */
@@ -369,38 +357,31 @@ const PostFullByline = styled.div`
     letter-spacing: 0.2px;
     text-transform: uppercase;
   }
-
   .post-full-byline-meta h4 {
     margin: 0 0 3px;
     font-size: 1.3rem;
     line-height: 1.4em;
     font-weight: 500;
   }
-
   .post-full-byline-meta h4 a {
     /* color: color(var(--darkgrey) l(+10%)); */
     color: ${lighten('0.1', colors.darkgrey)};
   }
-
   .post-full-byline-meta h4 a:hover {
     /* color: var(--darkgrey); */
     color: ${colors.darkgrey};
   }
-
   .post-full-byline-meta .bull {
     display: inline-block;
     margin: 0 4px;
     opacity: 0.6;
   }
-
   @media (prefers-color-scheme: dark) {
     /* border-top-color: color(var(--darkmode) l(+15%)); */
     border-top-color: ${lighten('0.15', colors.darkmode)};
-
     .post-full-byline-meta h4 a {
       color: rgba(255, 255, 255, 0.75);
     }
-
     .post-full-byline-meta h4 a:hover {
       color: #fff;
     }
@@ -414,7 +395,6 @@ export const PostFullTitle = styled.h1`
     margin-top: 0.2em;
     font-size: 3.3rem;
   }
-
   @media (prefers-color-scheme: dark) {
     color: rgba(255, 255, 255, 0.9);
   }
@@ -426,7 +406,6 @@ const PostFullImage = styled.figure`
   background: ${colors.lightgrey} center center;
   background-size: cover;
   border-radius: 5px;
-
   @media (max-width: 1170px) {
     margin: 25px -6vw 50px;
     border-radius: 0;
@@ -434,7 +413,6 @@ const PostFullImage = styled.figure`
       max-width: 1170px;
     }
   }
-
   @media (max-width: 800px) {
     height: 400px;
   }

@@ -103,42 +103,34 @@ const PostCardLarge = css`
     padding-bottom: 40px;
     min-height: 280px;
     border-top: 0;
-
     :not(.no-image) .post-card-header {
       margin-top: 0;
     }
-
     .post-card-image-link {
       position: relative;
       flex: 1 1 auto;
       margin-bottom: 0;
       min-height: 380px;
     }
-
     .post-card-image {
       position: absolute;
       width: 100%;
       height: 100%;
     }
-
     .post-card-content {
       flex: 0 1 361px;
       justify-content: center;
     }
-
     .post-card-title {
       margin-top: 0;
       font-size: 3.2rem;
     }
-
     .post-card-content-link {
       padding: 0 0 0 40px;
     }
-
     .post-card-meta {
       padding: 0 0 0 40px;
     }
-
     .post-card-excerpt p {
       margin-bottom: 1.5em;
       font-size: 1.8rem;
@@ -159,7 +151,6 @@ const PostCardImage = styled.div`
   height: 200px;
   background: ${colors.lightgrey} no-repeat center center;
   background-size: cover;
-
   @media (prefers-color-scheme: dark) {
     background: ${colors.darkmode};
   }
@@ -176,7 +167,6 @@ const PostCardContentLink = css`
   display: block;
   /* color: var(--darkgrey); */
   color: ${colors.darkgrey};
-
   :hover {
     text-decoration: none;
   }
@@ -196,7 +186,6 @@ const PostCardTitle = styled.h2`
   margin: 0 0 0.4em;
   line-height: 1.15em;
   transition: color 0.2s ease-in-out;
-
   @media (prefers-color-scheme: dark) {
     color: rgba(255, 255, 255, 0.85);
   }
@@ -204,7 +193,6 @@ const PostCardTitle = styled.h2`
 
 const PostCardExcerpt = styled.section`
   font-family: Georgia, serif;
-
   @media (prefers-color-scheme: dark) {
     /* color: color(var(--midgrey) l(+10%)); */
     color: ${lighten('0.1', colors.midgrey)} !important;
@@ -215,6 +203,7 @@ const PostCardMeta = styled.footer`
   display: flex;
   align-items: flex-start;
   padding: 0;
+  margin-top: -20px;
 `;
 
 const PostCardBylineContent = styled.div`
@@ -229,17 +218,14 @@ const PostCardBylineContent = styled.div`
   font-weight: 400;
   letter-spacing: 0.2px;
   text-transform: uppercase;
-
   span {
     margin: 0;
   }
-
   a {
     /* color: color(var(--darkgrey) l(+20%)); */
     color: ${lighten('0.2', colors.darkgrey)};
     font-weight: 600;
   }
-
   @media (prefers-color-scheme: dark) {
     a {
       color: rgba(255, 255, 255, 0.75);
@@ -259,7 +245,6 @@ export const StaticAvatar = css`
   height: 34px;
   border: #fff 2px solid;
   border-radius: 100%;
-
   @media (prefers-color-scheme: dark) {
     /* border-color: color(var(--darkgrey) l(+2%)); */
     border-color: ${lighten('0.02', colors.darkgrey)};
@@ -274,7 +259,6 @@ export const AuthorProfileImage = css`
   background: ${lighten('0.1', colors.lightgrey)};
   border-radius: 100%;
   object-fit: cover;
-
   @media (prefers-color-scheme: dark) {
     background: ${colors.darkmode};
   }
