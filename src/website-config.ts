@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Mundo Sadhguru',
-  description: 'Un blog que expresa la filosofia de un gran yogi del siglo 21',
+  description: 'Por un planeta lleno de amor, luz y risas',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
