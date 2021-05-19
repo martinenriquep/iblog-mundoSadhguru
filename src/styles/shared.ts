@@ -44,6 +44,7 @@ export const SiteTitle = styled.h1`
   font-weight: 600;
 
   @media (max-width: 500px) {
+    text-align: center;
     font-size: 4.2rem;
   }
 `;
@@ -52,13 +53,18 @@ export const SiteDescription = styled.h2`
   z-index: 10;
   margin: 0;
   padding: 5px 0;
-  font-size: 2.1rem;
+  font-size: 2.5rem;
   line-height: 1.4em;
   font-weight: 400;
   opacity: 0.8;
+  text-align: center;
+  font-style: italic;
+  padding-left: 20px;
 
   @media (max-width: 500px) {
     font-size: 1.8rem;
+    text-align: center;
+    margin-top: -15px;
   }
 `;
 
