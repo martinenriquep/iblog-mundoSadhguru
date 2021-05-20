@@ -35,7 +35,7 @@ export const ReadNextCard: React.FC<ReadNextProps> = props => {
     <ReadNextCardArticle className="read-next-card">
       <header className="read-next-card-header">
         <ReadNextCardHeaderTitle>
-          <span>More in</span>{' '}
+          <span>Más en</span>{' '}
           <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>{props.tags[0]}</Link>
         </ReadNextCardHeaderTitle>
       </header>
@@ -65,7 +65,7 @@ export const ReadNextCard: React.FC<ReadNextProps> = props => {
       </ReadNextCardContent>
       <ReadNextCardFooter className="read-next-card-footer">
         <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>
-          {props.relatedPosts.totalCount > 1 && `See all ${props.relatedPosts.totalCount} posts`}
+          {props.relatedPosts.totalCount > 1 && `Ver ${props.relatedPosts.totalCount} posts`}
           {props.relatedPosts.totalCount === 1 && '1 post'}
           {props.relatedPosts.totalCount === 0 && 'No posts'} →
         </Link>
