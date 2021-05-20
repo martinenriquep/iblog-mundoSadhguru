@@ -4,8 +4,10 @@ title: 5 Tips para limpiar tu cuerpo
 image: img/5-tips.jpg
 author: [Mundo Sadhguru]
 date: 2021-05-19T07:03:47.149Z
+draft: false
 tags:
   - Salud
+excerpt: ¿Sabias que nuestro cuerpo esta formado por 5 elementos? Aquí te damos algunos consejos para limpiar estos elementos dentro de nosotros.
 ---
 
 Sadguru te he escuchado decir que el 70% de nuestro cuerpo es agua, que si bebemos el agua energizada, realmente podemos tener control sobre el cuerpo y la mente ¿Es igual con el aire y los alimentos que consumimos? Porque en la ciudad tenemos que vivir con el aire contaminado del aire acondicionado en nuestras habitaciones.

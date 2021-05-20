@@ -4,6 +4,7 @@ title: ¿Cómo dejar de pensar en sexo?
 image: img/dejar-pensar-sexo.jpg
 author: [Mundo Sadhguru]
 date: 2021-05-15T07:03:47.149Z
+draft: false
 tags:
   - Lujuria
 excerpt: Pensar en sexo es algo común para nosotros como humanos. Pero ¿Cuándo o en qué momento se puede convertir en un problema?

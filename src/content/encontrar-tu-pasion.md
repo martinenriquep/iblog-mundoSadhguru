@@ -4,6 +4,7 @@ title: ¿Cómo encontrar tu pasión en 3 días?
 image: img/como-encontrar-tu-pasion.jpg
 author: [Mundo Sadhguru]
 date: 2021-05-16T07:03:47.149Z
+draft: false
 tags:
   - Vocación
 excerpt: Todos en algún momento nos hemos preguntado ¿Mi trabajo tiene algún sentido para mí?¿Mi tiempo y mi vida realmente están bien invertidas?

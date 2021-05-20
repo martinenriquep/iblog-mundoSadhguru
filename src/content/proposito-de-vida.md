@@ -4,6 +4,7 @@ title: ¿Cuál es el propósito de la vida?
 image: img/proposito-vida.jpg 
 author: [Mundo Sadhguru]
 date: 2021-05-18T07:03:47.149Z
+draft: false
 tags:
   - Vocación
 excerpt: ¿ Es necesario tener un propósito en la vida para poder ser feliz? Esto que estoy haciendo ¿Es mi propósito de vida para el que fui creado?

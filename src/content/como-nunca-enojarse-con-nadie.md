@@ -4,6 +4,7 @@ title: ¿Como nunca enojarte con nadie?
 image: img/como-nunca-enojarte.jpg 
 author: [Mundo Sadhguru]
 date: 2021-05-20T07:03:47.149Z
+draft: false
 tags:
   - Emociones
 excerpt: Nos encontramos con todo tipo de personas en nuestro día a día ¿Buenas personas? ¿Malas personas? ¿Cómo lidiar con estas emociones?
