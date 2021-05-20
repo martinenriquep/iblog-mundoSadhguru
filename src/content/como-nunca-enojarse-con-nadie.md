@@ -3,9 +3,9 @@ layout: post
 title: ¿Como nunca enojarte con nadie?
 image: img/como-nunca-enojarte.jpg 
 author: [Mundo Sadhguru]
-date: 2018-09-30T07:03:47.149Z
+date: 2021-05-20T07:03:47.149Z
 tags:
-  - Salud
+  - Emociones
 excerpt: Nos encontramos con todo tipo de personas en nuestro día a día ¿Buenas personas? ¿Malas personas? ¿Cómo lidiar con estas emociones?
 ---
 En una entrevista a Sadhguru le preguntan ¿Cuál es la relación entre voluntariado y la voluntad? Y ¿Cómo podríamos ser una puerta de entrada para llegar a ser una mejor persona de lo que somos?¿Cómo nunca enojarte con nadie?
