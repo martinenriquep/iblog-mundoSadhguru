@@ -60,7 +60,7 @@ const config: WebsiteConfig = {
   showSubscribe: true,
   mailchimpAction: 'https://work.us6.list-manage.com/subscribe/post?u=87100acb1ee0281e7fc657e52&amp;id=aa9a1a1e24',
   mailchimpName: 'b_87100acb1ee0281e7fc657e52_aa9a1a1e24',
-  mailchimpEmailFieldName: 'EMAIL',
+  mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
   footer: 'desea un planeta lleno de amor, luz y risas.',
 };
