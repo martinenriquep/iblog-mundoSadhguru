@@ -65,4 +65,4 @@ Tú cuida de esto y entonces no tendrás que preocuparte por tu bienestar físic
 **Puja** : Ritual que se ofrecen a las deidades.  
 **Buta Shuddhi** : Proceso yoguico para purificar los 5 elementos.
 
-Muchas gracias por estar aquí, les deseo mucho amor, luz y risas 🙏🏻
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻

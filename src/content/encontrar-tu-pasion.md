@@ -65,4 +65,4 @@ En conclusión, espero que todo este mensaje sobre ¿Cómo encontrar tu pasión?
 
 > Si eres un tonto haras algo que no te gusta hacer. Si eres una persona inteligente harás lo que amas. Pero si realmente quieres ser un genio en tu vida harás lo que sea necesario con alegría y participación absoluta. - Sadhguru
 > 
-Muchas gracias por estar aquí, les deseo mucho amor, luz y risas 🙏🏻
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻

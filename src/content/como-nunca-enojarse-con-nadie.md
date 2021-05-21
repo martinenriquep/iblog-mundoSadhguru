@@ -60,4 +60,4 @@ En este mundo hay todo tipo de bolsas mixtas, pero si estas dispuesto a que no e
 
 En conclusión, espero que este mensaje sobre ¿Cómo nunca enojarte con nadie? Te haya llegado y hecho reflexionar aunque sea un poco.
 
-Muchas gracias por estar aquí, les deseo mucho amor, luz y risas 🙏🏻
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻

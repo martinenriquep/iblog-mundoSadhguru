@@ -55,7 +55,7 @@ const config: WebsiteConfig = {
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://mundosadhguru.com',
-  facebook: 'https://www.facebook.com/mundosadhguru',
+  facebook: 'https://www.facebook.com/mundosadhguru.blog',
   twitter: 'https://twitter.com/mundosadhguru',
   showSubscribe: true,
   mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',

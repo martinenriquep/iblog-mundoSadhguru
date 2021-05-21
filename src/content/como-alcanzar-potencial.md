@@ -28,3 +28,5 @@ En el cálculo excesivo hay un enorme estrés y lucha, porque en primer lugar la
 **En la vida, lo das todo, simplemente lo das todo, no necesitas recibir nada y en esto hay una tremenda alegría**, una tremenda sensación de plenitud y sobre todo te llevará a desplegar todo tu ser, tu genio y todas las demás posibilidades que guardas dentro de ti.
 
 Que conozcas la alegría de ser un ofrecimiento al mundo, que conozcas la alegría de florecer en el ser humano más completo posible, mis deseos y mis bendiciones para cada uno de ustedes.
+
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻

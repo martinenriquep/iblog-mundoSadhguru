@@ -6,7 +6,7 @@ author: [Mundo Sadhguru]
 date: 2021-05-15T07:03:47.149Z
 draft: false
 tags:
-  - Lujuria
+  - Deseo
 excerpt: Pensar en sexo es algo común para nosotros como humanos. Pero ¿Cuándo o en qué momento se puede convertir en un problema?
 ---
 En las siguientes lineas Sadhguru intentara darnos su filosofia de vida sobre el tema **¿Cómo dejar de pensar en sexo?**
@@ -52,3 +52,5 @@ Y todo esto es porque incrementalmente has estado haciendo del cuerpo el todo en
 Con todo lo explicado por Sadhguru a la pregunta sobre ¿Cómo dejar de pensar en sexo?
 
 El consejo que no vayas por ese camino, **tienes que entender que el cuerpo solo tiene un pequeño rol en tu vida**, si intentas hacerlo el todo no funcionara.
+
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻

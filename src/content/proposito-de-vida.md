@@ -6,7 +6,7 @@ author: [Mundo Sadhguru]
 date: 2021-05-18T07:03:47.149Z
 draft: false
 tags:
-  - Vocación
+  - Motivación
 excerpt: ¿ Es necesario tener un propósito en la vida para poder ser feliz? Esto que estoy haciendo ¿Es mi propósito de vida para el que fui creado?
 ---
 En una de las charlas de Sadhguru una chica le pregunta que ¿Cuál es el propósito de la vida?
@@ -83,5 +83,5 @@ Eso es vivir totalmente, que experimente todas las dimensiones de lo que es esto
 
 > La vida misma, es el propósito mas importante. - Sadhguru
 
-Muchas gracias por estar aquí, les deseo mucho amor, luz y risas 🙏🏻
+Gracias por acompañarnos, Por favor comparte este mensaje, así de alguna manera alegrarás el día a otras personas. Te deseo mucho amor, luz y risas🙏🏻
 
